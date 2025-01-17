@@ -1,0 +1,17 @@
+body {
+  background-color: #141414;
+  color: white;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-outline-light {
+  color: black;
+  background-color: white;
+  border: none;
+}
+.btn-outline-light:hover {
+  background-color: #e6e6e6;
+}
